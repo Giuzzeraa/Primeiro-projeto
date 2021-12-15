@@ -21,6 +21,7 @@ Em 2013 (11/01/2013 para ser mais exato), fui contratado pela empresa Banco Brad
 Logo logo espero estar atuando em minha área.
 
 https://github.com/Giuzzeraa
+
 https://www.linkedin.com/in/giuliano-rosa-504a2759/
 
 
