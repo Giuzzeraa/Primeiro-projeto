@@ -21,10 +21,10 @@ Sou uma pessoa engajada no aprendizado dessa área, trabalhando sempre em equipe
 
 Busco oportunidades na área de desenvolvedor. Tanto para Front End quanto para Back End.
 
-Soft Skills
-*Aprendizagem fácil
-*Ótimo em trabalho em equipe
-*Curioso (a ponto de descobrir como e o porque 😅)
+Soft Skills </br >
+*Aprendizagem fácil</br >
+*Ótimo em trabalho em equipe</br >
+*Curioso (a ponto de descobrir como e o porque 😅)</br >
 *Dedicado e concentrado
 
 Hard Skills
