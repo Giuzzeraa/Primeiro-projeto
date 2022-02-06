@@ -14,13 +14,26 @@
 
 ## About me
 
-Estou voltando a procurar oportunidade nessa área no qual ja me dediquei muito para aprender.
-Apesar de muito tempo sem mexer, estou relembrando tudo para procurar minha vaga no mercado de trabalho nesse ramo.
-Em 2013 (11/01/2013 para ser mais exato), fui contratado pela empresa Banco Bradesco SA, como escriturário. Atualmente estou na empresa atuando como Gerente de Contas Pessoa Física, segmento Exclusive (atuando com atendimento ao público de média/alta renda), mas estudando e muito para voltar a atuar nessa área.
+Sou graduado em Administração Pela UNIP - Universidade Paulista, com muita paixão pela parte de TI.
 
-Logo logo espero estar atuando em minha área.
+Estudante da área de Tecnologia, aprendendo cada dia mais sobre linguagem de programação em geral como: HTML5, CSS3, JavaScript, TypeScript, Python, Java, Ruby.
+Sou uma pessoa engajada no aprendizado dessa área, trabalhando sempre em equipe, buscando conhecimento diário dessas linguagens para conhecer mais sobre esse mercado de trabalho onde busco uma oportunidade de começar a realizar minha transição de carreira.
 
-https://github.com/Giuzzeraa
+Busco oportunidades na área de desenvolvedor. Tanto para Front End quanto para Back End.
+
+Soft Skills
+*Aprendizagem fácil
+*Ótimo em trabalho em equipe
+*Curioso (a ponto de descobrir como e o porque 😅)
+*Dedicado e concentrado
+
+Hard Skills
+*HTML 5
+*CSS 3
+*Javascript
+
+
+https://github.com/Giulianorosa
 
 https://www.linkedin.com/in/giuliano-rosa-504a2759/
 
