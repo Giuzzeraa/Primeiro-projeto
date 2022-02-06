@@ -27,10 +27,10 @@ Soft Skills </br >
 *Curioso (a ponto de descobrir como e o porque 😅)</br >
 *Dedicado e concentrado
 
-Hard Skills
-*HTML 5
-*CSS 3
-*Javascript
+Hard Skills</br >
+*HTML 5</br >
+*CSS 3</br >
+*Javascript</br >
 
 
 https://github.com/Giulianorosa
