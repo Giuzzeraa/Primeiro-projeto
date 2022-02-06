@@ -16,8 +16,7 @@
 
 Sou graduado em Administração Pela UNIP - Universidade Paulista, com muita paixão pela parte de TI.
 
-Estudante da área de Tecnologia, aprendendo cada dia mais sobre linguagem de programação em geral como: HTML5, CSS3, JavaScript, TypeScript, Python, Java, Ruby.
-Sou uma pessoa engajada no aprendizado dessa área, trabalhando sempre em equipe, buscando conhecimento diário dessas linguagens para conhecer mais sobre esse mercado de trabalho onde busco uma oportunidade de começar a realizar minha transição de carreira.
+Estudante da área de Tecnologia, aprendendo cada dia mais sobre linguagem de programação em geral como: HTML5, CSS3, JavaScript, TypeScript, Python, Java, Ruby.</br >Sou uma pessoa engajada no aprendizado dessa área, trabalhando sempre em equipe, buscando conhecimento diário dessas linguagens para conhecer mais sobre esse mercado de trabalho onde busco uma oportunidade de começar a realizar minha transição de carreira.
 
 Busco oportunidades na área de desenvolvedor. Tanto para Front End quanto para Back End.
 
